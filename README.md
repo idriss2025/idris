@@ -12,8 +12,8 @@ I am a **versatile developer** with a passion for **programming, technology, and
 - 🔭 Currently working on various programming projects  
 - 🤝 Looking to collaborate on open-source projects  
 - 🌱 Currently learning **TypeScript**  
-- 👨🏻‍💻 Most of my projects are available on **[GitHub](https://github.com/your-github)**  
-- 💬 Ask me anything about programming, technology, or ethical hacking  
+- 👨🏻‍💻 Most of my projects are available on **[GitHub](https://github.com/idriss2025)**  
+- 💬 Ask me anything about programming, technology, or ethical hacking  📧 idrissoumar267@gmail.com 
 - 📫 Reach out via **[LinkedIn](https://www.linkedin.com/in/your-linkedin/)**  
 
 ### 🔨 Languages & Tools
@@ -31,6 +31,9 @@ I am a **versatile developer** with a passion for **programming, technology, and
 ![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
 
 ### 🛠️ My Projects
+<a href="https://github.com/idriss2025/Aladjmichi-Food" target="_blank">
+  <img alt="aladjmichi-food" src="./projects/aladjmichi-food.svg" height="68" align="left">
+</a>
 <a href="https://your-project1-link" target="_blank"><img alt="project1" src="./projects/artistify.svg" height="68" align="left"></a>
 <a href="https://your-project2-link" target="_blank"><img alt="project2" src="./projects/sheetsdatabase.svg" height="68" align="left"></a>
 <a href="https://your-project3-link" target="_blank"><img alt="project3" src="./projects/readmeicons.svg" height="68" align="left"></a>
