@@ -1,1 +1,1 @@
-# idris
+# idrisiho'lk/n., pikjl/n,.
